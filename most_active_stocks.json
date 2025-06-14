@@ -1,0 +1,202 @@
+[
+  {
+    "Symbol": "NVDA",
+    "Name": "NVIDIA Corporation",
+    "Price": "",
+    "Change": "141.97 -3.03 (-2.09%)",
+    "% Change": "-3.03",
+    "Volume": "-2.09%"
+  },
+  {
+    "Symbol": "TSLA",
+    "Name": "Tesla, Inc.",
+    "Price": "",
+    "Change": "325.31 +6.20 (+1.94%)",
+    "% Change": "+6.20",
+    "Volume": "+1.94%"
+  },
+  {
+    "Symbol": "ACHR",
+    "Name": "Archer Aviation Inc.",
+    "Price": "",
+    "Change": "9.99 -1.74 (-14.83%)",
+    "% Change": "-1.74",
+    "Volume": "-14.83%"
+  },
+  {
+    "Symbol": "LCID",
+    "Name": "Lucid Group, Inc.",
+    "Price": "",
+    "Change": "2.1000 -0.0600 (-2.78%)",
+    "% Change": "-0.0600",
+    "Volume": "-2.78%"
+  },
+  {
+    "Symbol": "PLTR",
+    "Name": "Palantir Technologies Inc.",
+    "Price": "",
+    "Change": "137.40 +2.21 (+1.63%)",
+    "% Change": "+2.21",
+    "Volume": "+1.63%"
+  },
+  {
+    "Symbol": "F",
+    "Name": "Ford Motor Company",
+    "Price": "",
+    "Change": "10.43 -0.10 (-0.95%)",
+    "% Change": "-0.10",
+    "Volume": "-0.95%"
+  },
+  {
+    "Symbol": "INTC",
+    "Name": "Intel Corporation",
+    "Price": "",
+    "Change": "20.14 -0.63 (-3.03%)",
+    "% Change": "-0.63",
+    "Volume": "-3.03%"
+  },
+  {
+    "Symbol": "SOFI",
+    "Name": "SoFi Technologies, Inc.",
+    "Price": "",
+    "Change": "14.09 -0.81 (-5.44%)",
+    "% Change": "-0.81",
+    "Volume": "-5.44%"
+  },
+  {
+    "Symbol": "AAL",
+    "Name": "American Airlines Group Inc.",
+    "Price": "",
+    "Change": "10.37 -0.53 (-4.86%)",
+    "% Change": "-0.53",
+    "Volume": "-4.86%"
+  },
+  {
+    "Symbol": "RIG",
+    "Name": "Transocean Ltd.",
+    "Price": "",
+    "Change": "3.3200 +0.1100 (+3.43%)",
+    "% Change": "+0.1100",
+    "Volume": "+3.43%"
+  },
+  {
+    "Symbol": "APLD",
+    "Name": "Applied Digital Corporation",
+    "Price": "",
+    "Change": "11.18 -1.33 (-10.63%)",
+    "% Change": "-1.33",
+    "Volume": "-10.63%"
+  },
+  {
+    "Symbol": "GME",
+    "Name": "GameStop Corp.",
+    "Price": "",
+    "Change": "22.14 0.00 (0.00%)",
+    "% Change": "0.00",
+    "Volume": "0.00%"
+  },
+  {
+    "Symbol": "MARA",
+    "Name": "MARA Holdings, Inc.",
+    "Price": "",
+    "Change": "15.04 -0.78 (-4.93%)",
+    "% Change": "-0.78",
+    "Volume": "-4.93%"
+  },
+  {
+    "Symbol": "NU",
+    "Name": "Nu Holdings Ltd.",
+    "Price": "",
+    "Change": "11.90 -0.10 (-0.83%)",
+    "% Change": "-0.10",
+    "Volume": "-0.83%"
+  },
+  {
+    "Symbol": "ORCL",
+    "Name": "Oracle Corporation",
+    "Price": "",
+    "Change": "215.22 +15.36 (+7.69%)",
+    "% Change": "+15.36",
+    "Volume": "+7.69%"
+  },
+  {
+    "Symbol": "ABEV",
+    "Name": "Ambev S.A.",
+    "Price": "",
+    "Change": "2.4400 -0.0100 (-0.41%)",
+    "% Change": "-0.0100",
+    "Volume": "-0.41%"
+  },
+  {
+    "Symbol": "BEKE",
+    "Name": "KE Holdings Inc.",
+    "Price": "",
+    "Change": "18.47 -0.52 (-2.74%)",
+    "% Change": "-0.52",
+    "Volume": "-2.74%"
+  },
+  {
+    "Symbol": "BTG",
+    "Name": "B2Gold Corp.",
+    "Price": "",
+    "Change": "3.7700 +0.0600 (+1.62%)",
+    "% Change": "+0.0600",
+    "Volume": "+1.62%"
+  },
+  {
+    "Symbol": "PCG",
+    "Name": "PG&E Corporation",
+    "Price": "",
+    "Change": "13.64 -0.66 (-4.62%)",
+    "% Change": "-0.66",
+    "Volume": "-4.62%"
+  },
+  {
+    "Symbol": "RGTI",
+    "Name": "Rigetti Computing, Inc.",
+    "Price": "",
+    "Change": "11.40 -0.70 (-5.79%)",
+    "% Change": "-0.70",
+    "Volume": "-5.79%"
+  },
+  {
+    "Symbol": "BBD",
+    "Name": "Banco Bradesco S.A.",
+    "Price": "",
+    "Change": "2.9800 -0.0200 (-0.67%)",
+    "% Change": "-0.0200",
+    "Volume": "-0.67%"
+  },
+  {
+    "Symbol": "AAPL",
+    "Name": "Apple Inc.",
+    "Price": "",
+    "Change": "196.45 -2.75 (-1.38%)",
+    "% Change": "-2.75",
+    "Volume": "-1.38%"
+  },
+  {
+    "Symbol": "RUN",
+    "Name": "Sunrun Inc.",
+    "Price": "",
+    "Change": "10.00 +1.53 (+18.06%)",
+    "% Change": "+1.53",
+    "Volume": "+18.06%"
+  },
+  {
+    "Symbol": "PFE",
+    "Name": "Pfizer Inc.",
+    "Price": "",
+    "Change": "24.54 -0.30 (-1.21%)",
+    "% Change": "-0.30",
+    "Volume": "-1.21%"
+  },
+  {
+    "Symbol": "PBR",
+    "Name": "Petr\u00f3leo Brasileiro S.A. - Petrobras",
+    "Price": "",
+    "Change": "12.70 +0.30 (+2.42%)",
+    "% Change": "+0.30",
+    "Volume": "+2.42%"
+  }
+]
